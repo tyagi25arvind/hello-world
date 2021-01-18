@@ -1,3 +1,3 @@
 # hello-world
-staring with GIT
+starting with GIT
 thank you
